@@ -1,6 +1,6 @@
 # Leaf Classify
 
-Validation accuracy  = 67,7%
+#### Validation accuracy  = 67,7%
 
 | Global name     | Include |
 | ---             | --- |
